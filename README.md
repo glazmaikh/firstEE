@@ -1,1 +1,2 @@
-test git pull test conflict
+test git pull
+add text from Intellij Idea test conflict
